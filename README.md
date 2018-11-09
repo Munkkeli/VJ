@@ -2,6 +2,9 @@
 
 VJ is a 0 dependency, react-like light framework for creating simple web components.
 
+**NOTICE:** This was made in frustration to get a round a "no framework allowed" rule in a school project, **do not use in production**!
+*Or better yet, do not use at all...*
+
 ---
 
 ### Example
